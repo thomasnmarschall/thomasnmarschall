@@ -2,4 +2,4 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=thomasnmarschall&bg_color=0d1117&color=9cae42&line=4dff00&point=918f94&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thomasnmarschall-ma&theme=onedark)](https://github.com/thomansmarschall-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=thomasnmarschall-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
