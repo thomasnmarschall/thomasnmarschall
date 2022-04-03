@@ -6,4 +6,4 @@
 
 [![card](https://github-readme-stats.vercel.app/api?username=thomasnmarschall&theme=dark)](https://github.com/iuricode/)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasnmarschall&hide=html&layout=compact=true&theme=dark)](https://github.com/iuricode/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasnmarschall&dark=html&layout=compact=true&theme=dark)](https://github.com/iuricode/)
