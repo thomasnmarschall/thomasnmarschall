@@ -4,13 +4,6 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=thomasnmarschall&bg_color=0d1117&color=9cae42&line=4dff00&point=918f94&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-
-
-
-
-
-[![banner](./banner.png)](https://github.com/thomasnmarschall)
-
 <h4 align="center">
 <details>
 <summary>Mais...</summary>
