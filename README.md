@@ -5,3 +5,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=thomasnmarschall&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![card](https://github-readme-stats.vercel.app/api?username=thomasnmarschall&theme=dark)](https://github.com/iuricode/)
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasnmarschall&dark=html&layout=compact=true&theme=default)](https://github.com/iuricode/)
