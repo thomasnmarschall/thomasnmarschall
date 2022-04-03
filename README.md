@@ -3,13 +3,6 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=thomasnmarschall&bg_color=0d1117&color=9cae42&line=4dff00&point=918f94&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thomasnmarschall&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![card](https://github-readme-stats.vercel.app/api?username=thomasnmarschall&theme=dark)](https://github.com/iuricode/)
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasnmarschall&dark=html&layout=compact=true&theme=dark)](https://github.com/iuricode/)
-
-
 
 
 
@@ -51,49 +44,30 @@
 </a>
 </p>
 
-<h3 align="center">Trabalhando em:</h3>
-
 <p align="center">
-  <a href="https://github.com/seu-usuario/seu-repositorio">
-    <img
-      align="center"
-      height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=thomasnmarschall&repo=LuanderFarias&theme=tokyonight">
-    </img>
-  </a>
-</p>
-
-<h3 align="center">Sobre mim:</h3>
-
-<p align="center">
-  <a href="https://instagram.com/seu-usuario/">
+  <a href="https://www.instagram.com/tnm_ofc/">
     <img
       align="center"
       src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
     />
   </a>
-  <a href="https://twitter.com/seu-usuario">
+  <a href="https://twitter.com/Samoht_oficial">
     <img
       align="center"
       src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=00FFFF"
     />
   </a>
-  <a href="https://discord.gg/seu-server">
+  <a href="https://discord.com/channels/@me/515536699934375957">
     <img
       align="center"
       src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=00FFFF">
   </a>
-  <a href="https://www.linkedin.com/in/seu-usuario/">
+  <a href="https://www.linkedin.com/in/thomas-nicolas-marschall-895084194/">
     <img
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
   </a>
-  <a href="https://www.youtube.com/channel/link-do-canal">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/YouTube-1C1C1C?style=for-the-badge&logo=youtube&logoColor=00FFFF"
-    />
-  </a>
+ 
 </p>
-<h5 align="center">Seu @</h5>
+<h5 align="center">@Thomasnmarschall</h5>
 </details>
