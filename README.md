@@ -4,4 +4,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=thomasnmarschall&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![card](https://github-readme-stats.vercel.app/api?username=thomasnmarschall&theme=default)](https://github.com/iuricode/)
+[![card](https://github-readme-stats.vercel.app/api?username=thomasnmarschall&theme=dark)](https://github.com/iuricode/)
