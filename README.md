@@ -7,6 +7,14 @@
 [![card](https://github-readme-stats.vercel.app/api?username=thomasnmarschall&theme=dark)](https://github.com/iuricode/)
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasnmarschall&dark=html&layout=compact=true&theme=dark)](https://github.com/iuricode/)
+
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+
+
+
+
 [![banner](./banner.png)](https://github.com/seu-usuario)
 
   <p align="center">
