@@ -6,7 +6,7 @@
 
 
 <h4 align="center">
-details>
+<details>
 <summary>Mais...</summary>
   <br>
 
