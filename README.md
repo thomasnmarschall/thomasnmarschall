@@ -1,4 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?duration=2500&center=true&lines&color=56F1F790&vCenter=true&width=500&height=40&lines=Bem+Vindo+ao+meu+reposit%C3%B3rio!!+;Nada+demais...%F0%9F%A4%B7%E2%80%8D%E2%99%82%EF%B8%8F;S%C3%B3+estudando+...%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB"></a>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?duration=2500&center=true&lines&color=4dff00&vCenter=true&width=500&height=40&lines=Bem+Vindo+ao+meu+reposit%C3%B3rio!!+;Nada+demais...%F0%9F%A4%B7%E2%80%8D%E2%99%82%EF%B8%8F;S%C3%B3+estudando+...%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB"></a>
 </p>
 
 
